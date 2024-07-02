@@ -1,0 +1,45 @@
+input, button{
+    margin: 5px 0 !important;
+}
+.imgLogin{
+    width: 100%;
+}
+.fotousuario{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+#textUser{
+    color: white;
+    margin-top: 8px;
+    margin-left: 8px;
+    
+}
+.user{
+    margin-top: 10px;
+}
+.navbar{
+    height: 110px;
+}
+.container h2{
+    text-align: center;
+    font-weight: 700;
+}
+#preco{
+    color: #f83f3f;
+    border-bottom: 3px solid #f83f3f;
+    font-weight: 300;
+    font-size: 3em;
+    position: absolute;
+    top: 0px;
+    right: 10px;
+}
+.card-container{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.carouselDetalhe{
+    width: 241px !important;
+}
